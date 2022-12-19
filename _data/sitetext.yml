@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Co-imagine Content Creation with AI
+    text: Redefine Storytelling
+    button: Contact
+    buttonlink: "#contact"
 
   # services:
   #   title: "Services"
@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Just started"
+    body: "We are still busy building"
     section: about
 
   # clients:
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Or email to contact@talesof.ai"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
