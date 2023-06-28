@@ -16,10 +16,11 @@ theme: jekyll-agency
 url    : "http://talesof.ai" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Tales of AI
-email      : contact@talesof.ai #this is also the email contact forms will go to
+title      : Nieta Art
+company    : 看见概念（上海）智能科技有限公司
+email      : contact@nieta.art #this is also the email contact forms will go to
 description: "Reinvent Storytelling"
-author     : Tales of AI Team
+author     : Nieta art AI Team
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px

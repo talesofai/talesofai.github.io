@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Or email to contact@talesof.ai"
+    text: "Or email to contact@nieta.art"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
